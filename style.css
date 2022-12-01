@@ -4,10 +4,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif
+  font-family: 'Poppins', sans-serif;
 }
 
-header{
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,7 +21,7 @@ header{
   background: #3e3c3c;
 }
 
-header a{
+header a {
   text-decoration: none;
   height: 24px;
   font-style: normal;
@@ -37,7 +37,6 @@ header a{
   background: url(assets/background/Illustration.svg) #1c1a19;
   background-repeat: no-repeat;
   background-position: right bottom;
- 
   display: flex;
   flex-direction: column;
   justify-content: center;
