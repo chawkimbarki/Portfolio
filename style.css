@@ -11,22 +11,21 @@ nav {
   position: absolute;
   width: 100%;
   height: 72px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   padding-left: 10%;
   padding-right: 10%;
-  background: #3E3C3C;
+  background: #3e3c3c;
 }
 
 .left {
   height: 24px;
-  font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
   align-items: center;
   text-align: center;
-  color: #FFF;
+  color: #fff;
 }
 
 .right {
@@ -39,7 +38,7 @@ nav {
 
 #headline {
   height: 100vh;
-  background: url(assets/background/Illustration.svg) #1C1A19;
+  background: url(assets/background/Illustration.svg) #1c1a19;
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 312px 406px;
@@ -52,13 +51,12 @@ nav {
 .primary-text {
   width: 327px;
   height: 124px;
-  font-family: 'Crete Round';
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
   line-height: 64px;
   letter-spacing: 0.37px;
-  color: #FF6B00;
+  color: #ff6b00;
   margin-bottom: 12px;
   margin-left: 24px;
   margin-right: 24px;
@@ -66,24 +64,22 @@ nav {
 
 .supporting-text {
   height: 27px;
-  font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
   line-height: 32px;
-  color: #FFF5E1;
+  color: #fff5e1;
   margin-bottom: 12px;
   margin-left: 24px;
   margin-right: 24px;
 }
 
 .description {
-  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #FFF;
+  color: #fff;
   margin-bottom: 12px;
   margin-left: 24px;
   margin-right: 24px;
