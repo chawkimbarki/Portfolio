@@ -24,7 +24,7 @@ nav {
 	font-size: 18px;
 	align-items: center;
 	text-align: center;
-	color: #FFFFFF;
+	color: #FFF;
 }
 .right {
 	display: flex;
@@ -42,7 +42,6 @@ nav {
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
-
 }
 .primary-text {
 	width: 327px;
@@ -76,7 +75,7 @@ nav {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 24px;
-	color: #FFFFFF;
+	color: #FFF;
 	margin-bottom: 12px;
 	margin-left: 24px;
 	margin-right: 24px;
