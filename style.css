@@ -1,0 +1,33 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+
+  width: 100%;
+  height: 72px;
+  left: 0px;
+  top: 0px;
+	padding-left: 10%;
+	padding-right: 10%;
+	background: #3E3C3C;
+}
+.left{
+	
+	height: 24px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	align-items: center;
+	text-align: center;
+	color: #FFFFFF;
+}
+.right{
+  display: flex;
+}
+.nav-link{
+  margin: 15px;
+}
